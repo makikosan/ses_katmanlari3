@@ -1,0 +1,11 @@
+{
+	"name": "Ses Katmanlari",
+	"short_name": "Ses Katmanlari",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#ffffff",
+	"icons": [],
+	"screenshots": []
+}
